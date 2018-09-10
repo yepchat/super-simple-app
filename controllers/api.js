@@ -23,7 +23,7 @@ exports.doYelpSearch = async (req, res, next) => {
 
   // Place holder for Yelp Fusion's API Key. Grab them
   // from https://www.yelp.com/developers/v3/manage_app
-  const apiKey = 'qPxl-79zfo6oUXkhz4tFKNU_8WcSxv7ntzNtYSEnhGFDHXktdVWvPwzMedOmrcGLTHsHjWMroaBzVq919asiZ2bOOzDeTQmv8H-8Zd2bsiZJEm0jBrS6IIaItp_iWHYx';
+  const apiKey = 'GET YOUR OWN KEY';
   
   var sampleData = [];
 
